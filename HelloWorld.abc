@@ -1,0 +1,10 @@
+FOR i IN {"Hello";" World"}:
+  WRITE #i
+
+PUT "http://homepages.cwi.nl/~steven/abc/programmers/handbook.html" IN link
+
+HOW TO GUILD head TO text:
+  PUT head^text IN text
+
+GUILD "guild here >> " IN link
+
