@@ -1,0 +1,13 @@
+////
+AsciiDoc, a lightweight markup language.
+Devin Miller
+////
+= Hello World in asciidoc
+
+*Hello* +
+_World_
+
+. awesome
+. right?
+
+video::2dgGhi7MFqo[youtube]
