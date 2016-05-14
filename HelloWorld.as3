@@ -1,4 +1,0 @@
-/* ActionScript 3 */
-
-var hello:String = "Hello World";
-trace(hello);
