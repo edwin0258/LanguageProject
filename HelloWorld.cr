@@ -1,4 +1,4 @@
-# An interesting new semi-new language similar to ruby.
+# An interesting semi-new language similar to ruby.
 puts "Hello World"
 
 "Goodbye World!".each_char do |x|
